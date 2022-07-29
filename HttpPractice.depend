@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\resource.h
+
+1650404533 source:c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\main.cpp
+	<windows.h>
+	<wininet.h>
+	<stdio.h>
+	<shellapi.h>
+	"menucmd.h"
+
+1649988702 c:\users\opiyo\documents\dev stash\c & c++ stash\practice1\menucmd.h
+
+1514140582 source:c:\users\opiyo\documents\dev stash\win32 stash\httppractice\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\opiyo\documents\dev stash\win32 stash\httppractice\resource.h
+
+1651366624 source:c:\users\opiyo\documents\dev stash\win32 stash\httppractice\main.cpp
+	<windows.h>
+	"Functions.h"
+
+1649988702 c:\users\opiyo\documents\dev stash\win32 stash\httppractice\menucmd.h
+
+1651362883 c:\users\opiyo\documents\dev stash\win32 stash\httppractice\functions.h
+
+1651374022 source:c:\users\opiyo\documents\dev stash\win32 stash\httppractice\functions.cpp
+	<windows.h>
+	<wininet.h>
+	"Functions.h"
+
